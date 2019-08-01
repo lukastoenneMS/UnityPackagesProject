@@ -1,0 +1,17 @@
+{
+    "name": "com.upmtests.trickyteleport",
+    "displayName": "TrickyTeleport Test Package",
+    "version": "0.0.5",
+    "unity": "2018.4",
+    "description": "A Elbereth Gilthoniel, silivren penna míriel",
+    "keywords": [
+        "Ainur",
+        "Valar",
+        "Varda"
+    ],
+    "category": "Unity",
+    "dependencies" :
+    {
+        "com.upmtests.superspatials" : "0.0.2"
+    }
+}
