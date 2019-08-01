@@ -1,0 +1,3 @@
+[submodule "Assets/GigaGyro"]
+	path = Assets/GigaGyro
+	url = https://github.com/lukastoenneMS/GiganticGyroPackageTest.git
