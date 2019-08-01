@@ -12,6 +12,6 @@
     "category": "Unity",
     "dependencies" :
     {
-        "com.upmtests.superspatials" : "0.0.2"
+        "com.upmtests.superspatials" : "0.0.3"
     }
 }
